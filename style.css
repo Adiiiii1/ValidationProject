@@ -1,0 +1,13 @@
+body {
+  background-color: #f7f7f7;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+  max-width: 500px;
+  margin: auto;
+}
+
+.progress-bar {
+  transition: width 0.3s ease-in-out;
+}
